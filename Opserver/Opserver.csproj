@@ -222,8 +222,9 @@
     <Content Include="Config\HAProxySettings.json.example" />
     <Content Include="Config\PollingSettings.json.example" />
     <Content Include="Config\RedisSettings.json.example" />
-    <Content Include="Config\SecuritySettings.config.example" />
-    <Content Include="Config\SQLSettings.json.example" />
+    <Content Include="Config\RedisSettings.json" />
+    <None Include="Config\SecuritySettings.config" />
+    <None Include="Config\SQLSettings.json" />
     <Content Include="Config\TeamCitySettings.json.example" />
     <Content Include="Content\img\logo\logo.eps" />
     <Content Include="Config\JiraSettings.json.example" />
